@@ -1,9 +1,17 @@
 # chatgpt
 A chatbot using ChatGPT API 
-## Using
-# Install Node.Js Module
-'''bash
+## Installation
+
+Get your API key from OpenAI and paste the key into the ```api/.env``` file
+
+Use the package manager [npm](https://nodejs.org/) to install the required packages.
+
+```bash
 npm i
-# Start index.js
-'''bash
+```
+
+## Usage
+
+```bash
 node .
+```
