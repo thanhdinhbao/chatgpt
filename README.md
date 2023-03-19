@@ -1,4 +1,4 @@
-# chatgpt
+# ThanhGPT Chat Bot
 A chatbot using ChatGPT API 
 ## Installation
 
@@ -15,3 +15,7 @@ npm i
 ```bash
 node .
 ```
+
+# Donate for me
+Momo: 0396084000
+MB Bank: 92222228386
